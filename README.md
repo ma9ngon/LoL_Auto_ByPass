@@ -31,5 +31,5 @@ https://memoryhackers.org/konular/league-of-legends-auto-nextgen-bypass-riot-gar
    * Additional info:
         * Official website: https://ma9ngon.blogspot.com/
         * Github: https://github.com/ma9ngon
-        * Discord: https://discord.com/invite/wXTR6nytCx
+        * Discord: https://discord.gg/7ruBUHUPvC
         * Youtube: https://www.youtube.com/channel/UC_mlcORdGMGhWHDouUY8ZHg
